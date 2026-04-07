@@ -19,9 +19,9 @@
 Где меня найти можно по вопросам или для общения 
 
 |Место|Ссылка|
-|:---|:----:|
-|Discord аккаунт|[debug_3930](https://discord.com/invite/c6reJuVK)|
-|Discord сервер|[Бальзам](https://discord.com/invite/4DGVetmwHY)|
+|:---:|:----:|
+|Discord аккаунт|[По вопросам](https://discord.com/invite/c6reJuVK)|
+|Discord сервер|[Для общения](https://discord.com/invite/4DGVetmwHY)|
 
 </div>
 
